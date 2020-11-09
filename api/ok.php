@@ -55,7 +55,7 @@ if ($_SERVER["REQUEST_METHOD"]=="POST") {
         echo '<br>';
         echo $response;
     } else {
-        header("Location: https://blog-lasting-full23.github.io/001/tks.html", true, 301);
+        header("Location: https://kxity.github.io/maxup/api/tks.html", true, 301);
         exit();
     }
 }
